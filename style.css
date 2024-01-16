@@ -1,0 +1,18 @@
+*{
+ margin: 0;
+ padding: 0;
+ background-color: chocolate;
+}
+
+.title-text{
+ text-align: center;
+ color: #fff;
+ font-size: 30px;
+}
+
+.welcome-text{
+ font-size: 25px;
+ justify-content: center;
+ text-align: center;
+ color: #fff;
+}
